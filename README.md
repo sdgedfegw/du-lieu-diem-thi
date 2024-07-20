@@ -1,4 +1,4 @@
-# Dữ liệu điểm thi THPT quốc gia 2017-2019 và Tốt nghiệp THPT 2020-2024
+# Dữ liệu điểm thi THPT Quốc gia 2017-2019 và Tốt nghiệp THPT 2020-2024
 
 ## Trường dữ liệu
 
