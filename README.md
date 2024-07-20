@@ -1,26 +1,17 @@
-**Dữ liệu điểm thi THPT quốc gia 2017-2019 và Tốt nghiệp THPT 2020-2024**
-<br>
-**Trường dữ liệu:**
-<br>
-SBD: Số báo danh của thí sinh. Ví dụ: 1701000001. 2 ký tự đầu "17" (từ 17 đến 24) biểu thị số năm. 2 ký tự tiếp theo "01" (từ 01-64) biểu thị mã tỉnh thi (xem tại đây: https://luatminhkhue.vn/danh-sach-ma-tinh-ma-huyen-ma-xa-thi-thpt-quoc-gia.aspx)
-<br>
-Toan
-<br>
-NguVan
-<br>
-VatLy
-<br>
-HoaHoc
-<br>
-SinhHoc
-<br>
-LichSu
-<br>
-DiaLy
-<br>
-GDCD
-<br>
-NgoaiNgu
-<br>
-MaMonNgoaiNgu
-<br>
+# Dữ liệu điểm thi THPT quốc gia 2017-2019 và Tốt nghiệp THPT 2020-2024
+
+## Trường dữ liệu
+
+| Trường        | Mô tả                                                                                                                                                                                                                                                                    |
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SBD           | Số báo danh của thí sinh. Ví dụ: 1701000001. Dãy 2 số đầu "17" (từ 17 đến 24) biểu thị số năm. Dãy 2 số tiếp theo "01" (từ 01 đến 64) biểu thị mã tỉnh thi ([xem tại đây](https://luatminhkhue.vn/danh-sach-ma-tinh-ma-huyen-ma-xa-thi-thpt-quoc-gia.aspx)). Dãy 6 số cuối "000001" biểu thị số báo danh của thí sinh                          |
+| Toan          | Điểm môn Toán (trắc nghiệm) của thí sinh với thang điểm 10 và 0.2 điểm/1 câu đúng (tổng 50 câu)                                                                                                                                                                           |
+| NguVan        | Điểm môn Ngữ Văn (tự luận) của thí sinh với thang điểm 10 và làm tròn 0.25 điểm                                                                                                                                                                                           |
+| VatLy         | Điểm môn Vật Lý (trắc nghiệm) của thí sinh với thang điểm 10 và 0.25 điểm/1 câu đúng (tổng 40 câu)                                                                                                                                                                        |
+| HoaHoc        | Điểm môn Hóa Học (trắc nghiệm) của thí sinh với thang điểm 10 và 0.25 điểm/1 câu đúng (tổng 40 câu)                                                                                                                                                                       |
+| SinhHoc       | Điểm môn Sinh Học (trắc nghiệm) của thí sinh với thang điểm 10 và 0.25 điểm/1 câu đúng (tổng 40 câu)                                                                                                                                                                      |
+| LichSu        | Điểm môn Lịch Sử (trắc nghiệm) của thí sinh với thang điểm 10 và 0.25 điểm/1 câu đúng (tổng 40 câu)                                                                                                                                                                       |
+| DiaLy         | Điểm môn Địa Lý (trắc nghiệm) của thí sinh với thang điểm 10 và 0.25 điểm/1 câu đúng (tổng 40 câu)                                                                                                                                                                        |
+| GDCD          | Điểm môn Giáo dục công dân (trắc nghiệm) của thí sinh với thang điểm 10 và 0.25 điểm/1 câu đúng (tổng 40 câu)                                                                                                                                                             |
+| NgoaiNgu      | Điểm của 1 trong 6 môn Ngoại ngữ (trắc nghiệm) của thí sinh với thang điểm 10 và 0.25 điểm/1 câu đúng (tổng 40 câu)                                                                                                                                                       |
+| MaMonNgoaiNgu | Mã môn ngoại ngữ của thí sinh, với N1 – Tiếng Anh; N2 – Tiếng Nga; N3 – Tiếng Pháp; N4 – Tiếng Trung Quốc; N5 – Tiếng Đức và N6 – Tiếng Nhật                                                                                                                              |
