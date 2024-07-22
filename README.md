@@ -17,12 +17,12 @@
 | GDCD          | Điểm môn Giáo dục công dân (trắc nghiệm) của thí sinh với thang điểm 10 và 0.25 điểm/1 câu đúng (tổng 40 câu).                                                                                                                                                             |
 | NgoaiNgu      | Điểm của 1 trong 6 môn Ngoại ngữ (trắc nghiệm) của thí sinh với thang điểm 10 và 0.25 điểm/1 câu đúng (tổng 40 câu).                                                                                                                                                       |
 | MaMonNgoaiNgu | Mã môn Ngoại ngữ của thí sinh, với N1 – Tiếng Anh; N2 – Tiếng Nga; N3 – Tiếng Pháp; N4 – Tiếng Trung Quốc; N5 – Tiếng Đức và N6 – Tiếng Nhật.                                                                                                                              |
-| TongDiem | Tổng điểm 6 môn thi của thí sinh với công thức Toán + Ngữ văn + Ngoại ngữ + Khoa học tự nhiên (Vật lý, Hóa học, Sinh học) hoặc Khoa học xã hội (Lịch sử, Địa lý và Giáo dục công dân). Nếu thí sinh thi cả 2 khối Khoa học tự nhiên và Khoa học xã hội, tổng điểm sẽ là điểm cao hơn giữa tổng điểm 2 khối.  |
-| KhoiA | Tổng điểm Khối A của thí sinh với công thức Toán + Vật lý + Hóa học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
-| KhoiA1 | Tổng điểm Khối A1 của thí sinh với công thức Toán + Vật lý + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
-| KhoiB | Tổng điểm Khối B của thí sinh với công thức Toán + Hóa học + Sinh học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
-| KhoiC | Tổng điểm Khối C của thí sinh với công thức Ngữ văn + Lịch sử + Địa lý. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
-| KhoiD | Tổng điểm Khối D của thí sinh với công thức Toán + Ngữ văn + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| TongDiem | Tổng điểm 6 môn thi của thí sinh với thang điểm 60. Công thức tính: Toán + Ngữ văn + Ngoại ngữ + Khoa học tự nhiên (Vật lý, Hóa học, Sinh học) hoặc Khoa học xã hội (Lịch sử, Địa lý và Giáo dục công dân). Nếu thí sinh thi cả 2 khối Khoa học tự nhiên và Khoa học xã hội, tổng điểm sẽ là điểm cao hơn giữa tổng điểm 2 khối.  |
+| KhoiA | Tổng điểm Khối A của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lý + Hóa học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| KhoiA1 | Tổng điểm Khối A1 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lý + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| KhoiB | Tổng điểm Khối B của thí sinh với thang điểm 30. Công thức tính: Toán + Hóa học + Sinh học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| KhoiC | Tổng điểm Khối C của thí sinh với thang điểm 30. Công thức tính: Ngữ văn + Lịch sử + Địa lý. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| KhoiD | Tổng điểm Khối D của thí sinh với thang điểm 30. Công thức tính: Toán + Ngữ văn + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 ## Download
 
 ### Dữ liệu điểm thi của từng tỉnh và thành phố theo từng năm:
