@@ -1,4 +1,4 @@
-# Dữ liệu điểm thi THPT Quốc gia 2017-2019 và Tốt nghiệp THPT 2020-2024
+# Dữ liệu điểm thi Tuyển sinh Đại học - Cao đẳng 2013-2014, THPT Quốc gia 2016-2019 và Tốt nghiệp THPT 2020-2025
 
 ## Trường dữ liệu
 
