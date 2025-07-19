@@ -16,7 +16,7 @@
 | **Mon1** | Điểm số của môn đầu tiên mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi (mỗi năm 1 khác, môn 1 thường là môn chính như Toán hoặc Ngữ văn; xem ở bên dưới) theo dãy 3 hoặc 4 số, ví dụ 1000 tương ứng với 10.00 điểm, 425 tương ứng với 4.25 điểm). |
 | **Mon2** | Điểm số của môn thứ 2 mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi, theo dãy 3 hoặc 4 số. |
 | **Mon3** | Điểm số của môn thứ 3 mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi, theo dãy 3 hoặc 4 số. |
-| **TongDiem**| Tổng điểm số 3 môn thi của khối thi mà thí sinh dự thi (Điểm trần, chưa cộng điểm vùng, điểm ưu tiên). |
+| **TongDiem**| Tổng điểm số 3 môn thi của khối thi mà thí sinh dự thi (điểm trần, chưa cộng điểm vùng, điểm ưu tiên), theo dãy 4 số. |
 
 ### 2016
 
