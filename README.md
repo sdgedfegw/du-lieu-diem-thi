@@ -18,6 +18,14 @@
 | **Mon3** | Điểm số của môn thứ 3 mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi, theo dãy 3 hoặc 4 số. |
 | **TongDiem**| Tổng điểm số 3 môn thi của khối thi mà thí sinh dự thi (điểm trần, chưa cộng điểm vùng, điểm ưu tiên), theo dãy 4 số. |
 
+| Khối thi   | Môn 1  | Môn 2     | Môn 3     |
+|------------|--------|-----------|-----------|
+| Khối A     | Toán   | Vật lí    | Hóa học   |
+| Khối A1    | Toán   | Vật lí    | Tiếng Anh |
+| Khối B     | Toán   | Sinh học  | Hóa học   |
+| Khối C     | Địa lí | Lịch sử   | Ngữ văn   |
+| Khối D1-D6 | Toán   | Ngoại ngữ | Ngữ văn   |
+
 ### 2016
 
 | Trường        | Mô tả                                                                                                                                                                                                                                                                    |
