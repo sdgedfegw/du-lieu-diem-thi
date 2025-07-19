@@ -48,7 +48,7 @@
 | KhoiA | Tổng điểm Tổ hợp A00 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lí + Hóa học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiA1 | Tổng điểm Tổ hợp A01 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lí + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiB | Tổng điểm Tổ hợp B00 của thí sinh với thang điểm 30. Công thức tính: Toán + Hóa học + Sinh học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
-| KhoiC | Tổng điểm Tổ hợp C01 của thí sinh với thang điểm 30. Công thức tính: Ngữ văn + Lịch sử + Địa lí. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| KhoiC | Tổng điểm Tổ hợp C00 của thí sinh với thang điểm 30. Công thức tính: Ngữ văn + Lịch sử + Địa lí. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiD | Tổng điểm Tổ hợp D00 của thí sinh với thang điểm 30. Công thức tính: Toán + Ngữ văn + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiA02 | Tổng điểm Tổ hợp A02 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lí + Sinh học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiC01 | Tổng điểm Tổ hợp C01 của thí sinh với thang điểm 30. Công thức tính: Toán + Ngữ văn + Vật lí. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
@@ -82,7 +82,7 @@
 | KhoiA | Tổng điểm Tổ hợp A00 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lí + Hóa học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiA1 | Tổng điểm Tổ hợp A01 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lí + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiB | Tổng điểm Tổ hợp B00 của thí sinh với thang điểm 30. Công thức tính: Toán + Hóa học + Sinh học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
-| KhoiC | Tổng điểm Tổ hợp C01 của thí sinh với thang điểm 30. Công thức tính: Ngữ văn + Lịch sử + Địa lí. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| KhoiC | Tổng điểm Tổ hợp C00 của thí sinh với thang điểm 30. Công thức tính: Ngữ văn + Lịch sử + Địa lí. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiD | Tổng điểm Tổ hợp D00 của thí sinh với thang điểm 30. Công thức tính: Toán + Ngữ văn + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiA02 | Tổng điểm Tổ hợp A02 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lí + Sinh học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiC01 | Tổng điểm Tổ hợp C01 của thí sinh với thang điểm 30. Công thức tính: Toán + Ngữ văn + Vật lí. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
@@ -117,7 +117,7 @@
 | KhoiA | Tổng điểm Tổ hợp A00 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lí + Hóa học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiA1 | Tổng điểm Tổ hợp A01 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lí + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiB | Tổng điểm Tổ hợp B00 của thí sinh với thang điểm 30. Công thức tính: Toán + Hóa học + Sinh học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
-| KhoiC | Tổng điểm Tổ hợp C01 của thí sinh với thang điểm 30. Công thức tính: Ngữ văn + Lịch sử + Địa lí. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| KhoiC | Tổng điểm Tổ hợp C00 của thí sinh với thang điểm 30. Công thức tính: Ngữ văn + Lịch sử + Địa lí. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiD | Tổng điểm Tổ hợp D00 của thí sinh với thang điểm 30. Công thức tính: Toán + Ngữ văn + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiA02 | Tổng điểm Tổ hợp A02 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lí + Sinh học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiC01 | Tổng điểm Tổ hợp C01 của thí sinh với thang điểm 30. Công thức tính: Toán + Ngữ văn + Vật lí. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
