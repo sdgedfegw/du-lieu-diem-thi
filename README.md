@@ -3,6 +3,20 @@
 ## Trường dữ liệu
 
 ### 2013-2014
+| Trường | Mô tả |
+| :--- | :--- |
+| **Nam** | Năm thí sinh dự thi (dãy 2 số, 13 hoặc 14). |
+| **Tinh** | Mã tỉnh hoặc thành phố dự thi của thí sinh (2 số, từ 1 đến 64). [Xem tại đây](https://luatminhkhue.vn/danh-sach-ma-tinh-ma-huyen-ma-xa-thi-thpt-quoc-gia.aspx) |
+| **KyThi** | Phân biệt thí sinh thi Đại học hay thi Cao đẳng |
+| **DH** | Mã trường Đại học hoặc Cao đẳng mà thí sinh dự thi. |
+| **Khoi** | Mã khối thi của thí sinh. |
+| **SBD** | Số báo danh của thí sinh (dãy 6 số dạng str). |
+| **HovaTen**| Họ và tên của thí sinh (Lưu ý: Năm 2014 bị lỗi font) |
+| **NgaySinh**| Ngày tháng năm sinh của thí sinh (dãy 6 số; 2 số đầu là ngày, 2 số giữa là tháng và 2 số sau cùng là năm; "000000" tương ứng với để trống). |
+| **Mon1** | Điểm số của môn đầu tiên mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi (mỗi năm 1 khác, môn 1 thường là môn chính như Toán hoặc Ngữ văn; xem ở bên dưới) theo dãy 3 hoặc 4 số, ví dụ 1000 tương ứng với 10.00 điểm, 425 tương ứng với 4.25 điểm). |
+| **Mon2** | Điểm số của môn thứ 2 mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi, theo dãy 3 hoặc 4 số. |
+| **Mon3** | Điểm số của môn thứ 3 mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi, theo dãy 3 hoặc 4 số. |
+| **TongDiem**| Tổng điểm số 3 môn thi của khối thi mà thí sinh dự thi (Điểm trần, chưa cộng điểm vùng, điểm ưu tiên). |
 
 ### 2016
 
