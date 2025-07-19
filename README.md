@@ -50,12 +50,14 @@
 | TongDiemKHTN | Tổng điểm 6 môn thi của thí sinh với thang điểm 60. Công thức tính: Toán + Ngữ văn + Ngoại ngữ + Khoa học tự nhiên (Vật lí, Hóa học, Sinh học). (Loại trừ những thí sinh không thi bất kỳ 1 trong 6 môn hoặc điểm của 1 trong 6 môn = 0) |
 | TongDiemKHXH |  |
 
-### 2017-2024
+### 2017-2025
+
+* Lưu ý: Dữ liệu năm 2025 dựa theo format này chỉ bao gồm thí sinh tự do dự thi chương trình 2006.
 
 | Trường        | Mô tả                                                                                                                                                                                                                                                                    |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SBD          | Số báo danh gốc của thí sinh.                                                                                                                                                                           |
-| Nam          | Năm thí sinh dự thi (dãy 2 số, từ 17 đến 24, tương ứng với 2017 đến 2024).                                                                                                                                                                           |
+| Nam          | Năm thí sinh dự thi (dãy 2 số, từ 17 đến 25, tương ứng với 2017 đến 2025).                                                                                                                                                                           |
 | Tinh          | Mã tỉnh hoặc thành phố dự thi của thí sinh (2 số, từ 1 đến 64). [Xem tại đây](https://luatminhkhue.vn/danh-sach-ma-tinh-ma-huyen-ma-xa-thi-thpt-quoc-gia.aspx)                                                                                                                                                                           |
 | SBD_New           | Số báo danh của thí sinh (6 số, từ 1 đến 108573).                       |
 | Toan          | Điểm môn Toán (trắc nghiệm) của thí sinh với thang điểm 10 và 0.2 điểm/1 câu đúng (tổng 50 câu).                                                                                                                                                                           |
