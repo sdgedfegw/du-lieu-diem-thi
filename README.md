@@ -13,10 +13,10 @@
 | **SBD** | Số báo danh của thí sinh (dãy 6 số dạng str). |
 | **HovaTen**| Họ và tên của thí sinh (Lưu ý: Năm 2014 bị lỗi font) |
 | **NgaySinh**| Ngày tháng năm sinh của thí sinh (dãy 6 số; 2 số đầu là ngày, 2 số giữa là tháng và 2 số sau cùng là năm; "000000" tương ứng với để trống). |
-| **Mon1** | Điểm số của môn đầu tiên mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi (mỗi năm 1 khác, môn 1 thường là môn chính như Toán hoặc Ngữ văn; xem ở bên dưới) theo dãy 3 hoặc 4 số, ví dụ 1000 tương ứng với 10.00 điểm, 425 tương ứng với 4.25 điểm). |
-| **Mon2** | Điểm số của môn thứ 2 mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi, theo dãy 3 hoặc 4 số. |
-| **Mon3** | Điểm số của môn thứ 3 mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi, theo dãy 3 hoặc 4 số. |
-| **TongDiem**| Tổng điểm số 3 môn thi của khối thi mà thí sinh dự thi (điểm trần, chưa cộng điểm vùng, điểm ưu tiên), theo dãy 4 số. |
+| **Mon1** | Điểm số của môn đầu tiên mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi (mỗi năm 1 khác, môn 1 thường là môn chính như Toán hoặc Ngữ văn; xem ở bên dưới) ; 4 số, ví dụ 1000 tương ứng với 10.00 điểm, 425 tương ứng với 4.25 điểm). |
+| **Mon2** | Điểm số của môn thứ 2 mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi; 4 số. |
+| **Mon3** | Điểm số của môn thứ 3 mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi; 4 số. |
+| **TongDiem**| Tổng điểm số 3 môn thi của khối thi mà thí sinh dự thi (điểm trần, chưa cộng điểm vùng, điểm ưu tiên); 4 số. |
 
 | Khối thi   | Môn 1  | Môn 2     | Môn 3     |
 |------------|--------|-----------|-----------|
