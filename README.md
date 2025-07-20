@@ -122,17 +122,3 @@
 | KhoiA02 | Tổng điểm Tổ hợp A02 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lí + Sinh học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiC01 | Tổng điểm Tổ hợp C01 của thí sinh với thang điểm 30. Công thức tính: Toán + Ngữ văn + Vật lí. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiD07 | Tổng điểm Tổ hợp D07 của thí sinh với thang điểm 30. Công thức tính: Toán + Hóa học + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
-
-
-## Download (định dạng .csv)
-
-### Dữ liệu điểm thi của từng tỉnh và thành phố theo từng năm:
-| [2017](https://mega.nz/file/9w5iTC7a#Dr3RDzimG9VClJca6DDTSi6UvNUsZ_zm6C5azqVDb64) | [2018](https://mega.nz/file/FxhDwLwS#PysM8SGs0FTYDr0MstTlgaufrfkiPap3vIm-9lVrXio) | [2019](https://mega.nz/file/AgYDGL5A#aDP-46NimdM7OoX5Rz1li1lQRQP2sqlFskimEcq_f3M) | [2020](https://mega.nz/file/M4glkBSY#Kh_j--u69YTsoLmLBLlxv0c_GtMhBd0mqN29JDzyD24) | [2021](https://mega.nz/file/xtYlwTST#FKVl6_utYiK9kcEuF8m0He039k6Q7cJr7t_ao8vSrvk) | [2022](https://mega.nz/file/UxRmXLjQ#8_Vthizoa3xsHKVZYED_qkJbKRU12_YnbBA036uWrbY) | [2023](https://mega.nz/file/1p4B2Y6A#EhONn0GHyU5C5W58Dq6UUhr9BB7ft6lHGhcQW6oMYOw) | [2024](https://mega.nz/file/cgYi3Cjb#Vr6hQf82w3aPyCgdljCV-2t-zHMpgLWRytJVETNQC5E) | [Toàn bộ](https://mega.nz/file/QhI1CZrS#wHOi-gSz5nEbfmv_qBIpN8-xkNpedRNSuFV3yS_RKiI) |
-|------|------|------|------|------|------|------|------|------|
-
-### Dữ liệu điểm thi của từng năm:
-* [2025](https://mega.nz/file/wtZyTazZ#LkpEjM5k7D26EMA09gyiI_AVEg4QdysvljSbHuHukFs)
-* [Download tại đây](https://mega.nz/file/M0xhDB5I#0Jl3KOby7wNo-kcEcJtVs2Ap28-CP1CUInX3tN_W1uU)
-
-### Toàn bộ dữ liệu điểm thi trong 1 file:
-* [Download tại đây](https://mega.nz/file/U4wiwQSD#KGZmALr9irr4E6MqpSRIcrASHVqQeuaANvZ1-azm3Ls)
