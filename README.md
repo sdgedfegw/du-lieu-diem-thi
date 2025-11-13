@@ -33,7 +33,7 @@
 
 # Dữ liệu điểm thi Tuyển sinh Đại học - Cao đẳng 2013-2014, THPT Quốc gia 2016-2019 và Tốt nghiệp THPT 2020-2025
 
-Download Mirror: 
+**Download Mirror:**
 
 [Kaggle](https://www.kaggle.com/datasets/sdgedfegw/vietnam-university-entrance-exam-raw-data-2013-25)
 
@@ -42,6 +42,10 @@ Mega.nz (dạng .rar):
 | [2013-2014](https://mega.nz/file/48JkxQhb#H5yL8QeD-6lgSPl-sC7nfTLHADCrHHvyFcNpmVODXWE) | [2016 - Đại học](https://mega.nz/file/dpwTESrT#Tx7du9Wq1QapqHTvQyxlR2ECcBNEaan39hspb8vshZc) | [2016 - Địa phương](https://mega.nz/file/ZgJ0RKDb#GbqDhh_NIbwz2n5AjIKGW-X8s8Dssk6Ffxi05pLNlDI) | [2017](https://mega.nz/file/QxxQ2YhK#TWMG92bKSo5PK4bOV3gqhbJUmVooI-NC4tfGHcihLDM) | [2018](https://mega.nz/file/QxxQ2YhK#TWMG92bKSo5PK4bOV3gqhbJUmVooI-NC4tfGHcihLDM) | [2019](https://mega.nz/file/Nw5kyTBR#vc3HlmaicF9fsIMdbio16qSPqDsrb7JZq2C5wAoTB8U) | [2020](https://mega.nz/file/ckRRDDIb#wFTUiBhU3L0txvO3PxeLJfO3XoSQpEpX7ciTLsxlevs) |
 |---|---|---|---|---|---|---|
 | [2021](https://mega.nz/file/Ug5knCBD#Okx1k8uTs_QEnoyko8wr_aoCZxmSAUhIy5T9STGmAt0) | [2022](https://mega.nz/file/FtoVSa6B#5P1OWfWHE5UE6oPp6ZZnLvFyQx2ou72dYMexGaza-dw) | [2023](https://mega.nz/file/0oIjULQA#De-9cMr3GdxODY4UoC7noRa1AfHeK1grukY27Of9fxM) | [2024](https://mega.nz/file/0oIjULQA#De-9cMr3GdxODY4UoC7noRa1AfHeK1grukY27Of9fxM) | [2025 - Chương trình 2006](https://mega.nz/file/wsozUJ6J#0q3RjJRM3pgA8HDPjw7CcoFsJ4kPUZJ_Z0dN8q8AGbg) | [2025 - Chương trình 2018](https://mega.nz/file/t0AH3IzQ#WKnoe1GycLKNlW0SeiYsnF1Vvk_DXKJUNNOrQWRcZWE) | [2017-2025](https://mega.nz/file/dtI1lJrA#ughTpTeMkmdt3EUVjJqAjXIkSoMBYJLW-V4h_kpUvuQ) |
+
+**Số liệu thống kê**
+
+[Xem tại đây](https://diemthi.fandom.com/vi/wiki/Wiki_%C4%91i%E1%BB%83m_thi)
 
 ## Trường dữ liệu
 
