@@ -33,6 +33,8 @@
 
 # Dữ liệu điểm thi Tuyển sinh Đại học - Cao đẳng 2013-2014, THPT Quốc gia 2016-2019 và Tốt nghiệp THPT 2020-2025
 
+*Nếu bạn có dữ liệu của các năm 2020 - đợt 2, 2015, 2012 trở về trước v.v.... liên hệ với mình [tại đây](https://github.com/sdgedfegw/du-lieu-diem-thi/issues)*
+
 **Download Mirror:**
 
 [Kaggle](https://www.kaggle.com/datasets/sdgedfegw/vietnam-university-entrance-exam-raw-data-2013-25)
