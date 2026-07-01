@@ -26,8 +26,17 @@
     <tr>
     <td>&emsp;&emsp;<a href="#2025">2025</a></td>
   </tr>
+    <tr>
+    <td>&emsp;&emsp;<a href="#2026">2026</a></td>
+  </tr>
   <tr>
     <td>&emsp;&emsp;&emsp;<a href="#mã-tỉnhthành-phố">Mã Tỉnh/Thành phố</a></td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;<a href="#2002-2025">2002-2025</a></td>
+  </tr>
+    <tr>
+    <td>&emsp;&emsp;<a href="#2026">2026</a></td>
   </tr>
 </table>
 
@@ -287,13 +296,44 @@ Mega.nz (dạng .rar):
 | TongDiemKHTN | Tổng điểm 6 môn thi của thí sinh với thang điểm 60. Công thức tính: Toán + Ngữ văn + Ngoại ngữ + Khoa học tự nhiên (Vật lí, Hóa học, Sinh học). (Loại trừ những thí sinh không thi bất kỳ 1 trong 6 môn hoặc điểm của 1 trong 6 môn = 0) |
 | TongDiemKHXH | Tổng điểm 6 môn thi của thí sinh với thang điểm 60. Công thức tính: Toán + Ngữ văn + Ngoại ngữ + Khoa học xã hội (Lịch sử, Địa lí và Giáo dục công dân).  (Loại trừ những thí sinh không thi bất kỳ 1 trong 6 môn hoặc điểm của 1 trong 6 môn = 0) |
 
-### 2025-2026
+### 2025
 
 | Trường        | Mô tả                                                                                                                                                                                                                                                                    |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SBD          | Số báo danh gốc của thí sinh.                                                                                                                                                                           |
 | Nam          | Năm thí sinh dự thi (dãy 2 số).                                                                                                                                                                           |
 | Tinh          | Mã tỉnh hoặc thành phố dự thi của thí sinh (2 số, từ 1 đến 64). [Xem tại đây](#mã-tỉnhthành-phố)                                                                                                                                                                           |
+| SBD_New           | Số báo danh của thí sinh (6 số, từ 1 đến 124072).                       |
+| Toan          | Điểm môn Toán của thí sinh với thang điểm 10. Đề thi bao gồm 12 câu trắc nghiệm (0.25 điểm), 4 câu đúng sai (0.1/0.25/0.5/1 điểm với 1/2/3/4 ý đúng mỗi câu) và 6 câu trả lời ngắn (0.5 điểm).                                                                                                                                                                           |
+| NguVan        | Điểm môn Ngữ văn (tự luận) của thí sinh với thang điểm 10 và làm tròn tới 0.25 điểm.                                                                                                                                                                                           |
+| VatLy         | Điểm môn Vật lí của thí sinh với thang điểm 10. Đề thi bao gồm 18 câu trắc nghiệm (0.25 điểm), 4 câu đúng sai (0.1/0.25/0.5/1 điểm với 1/2/3/4 ý đúng mỗi câu) và 6 câu trả lời ngắn (0.25 điểm).                                                                                                                                                                        |
+| HoaHoc        | Điểm môn Hóa học của thí sinh với thang điểm 10. Đề thi bao gồm 18 câu trắc nghiệm (0.25 điểm), 4 câu đúng sai (0.1/0.25/0.5/1 điểm với 1/2/3/4 ý đúng mỗi câu) và 6 câu trả lời ngắn (0.25 điểm).                                                                                                                                                                       |
+| SinhHoc       | Điểm môn Sinh học của thí sinh với thang điểm 10. Đề thi bao gồm 18 câu trắc nghiệm (0.25 điểm), 4 câu đúng sai (0.1/0.25/0.5/1 điểm với 1/2/3/4 ý đúng mỗi câu) và 6 câu trả lời ngắn (0.25 điểm).                                                                                                                                                                      |
+| LichSu        | Điểm môn Lịch sử của thí sinh với thang điểm 10. Đề thi bao gồm 24 câu trắc nghiệm (0.25 điểm), 4 câu đúng sai (0.1/0.25/0.5/1 điểm với 1/2/3/4 ý đúng mỗi câu).                                                                                                                                                                       |
+| DiaLy         | Điểm môn Địa lí của thí sinh với thang điểm 10. Đề thi bao gồm 18 câu trắc nghiệm (0.25 điểm), 4 câu đúng sai (0.1/0.25/0.5/1 điểm với 1/2/3/4 ý đúng mỗi câu) và 6 câu trả lời ngắn (0.25 điểm).                                                                                                                                                                        |
+| KinhTePhapLuat          | Điểm môn Giáo dục Kinh tế - Pháp luật của thí sinh với thang điểm 10. Đề thi bao gồm 24 câu trắc nghiệm (0.25 điểm), 4 câu đúng sai (0.1/0.25/0.5/1 điểm với 1/2/3/4 ý đúng mỗi câu).                                                                                                                                                             |
+| TinHoc          | Điểm môn Tin học của thí sinh với thang điểm 10. Đề thi bao gồm 24 câu trắc nghiệm (0.25 điểm), 4 câu đúng sai (0.1/0.25/0.5/1 điểm với 1/2/3/4 ý đúng mỗi câu).                                                                                                                                                             |
+| CongNgheCongNghiep          | Điểm môn Công nghệ - Công nghiệp của thí sinh với thang điểm 10. Đề thi bao gồm 24 câu trắc nghiệm (0.25 điểm), 4 câu đúng sai (0.1/0.25/0.5/1 điểm với 1/2/3/4 ý đúng mỗi câu).                                                                                                                                                             |
+| CongNgheNongNghiep          | Điểm môn Công nghệ - Nông nghiệp của thí sinh với thang điểm 10. Đề thi bao gồm 24 câu trắc nghiệm (0.25 điểm), 4 câu đúng sai (0.1/0.25/0.5/1 điểm với 1/2/3/4 ý đúng mỗi câu).                                                                                                                                                             |
+| NgoaiNgu      | Điểm của 1 trong 7 môn Ngoại ngữ (trắc nghiệm) của thí sinh với thang điểm 10 và 0.25 điểm/1 câu đúng (tổng 40 câu).                                                                                                                                                       |
+| MaMonNgoaiNgu | Mã môn Ngoại ngữ của thí sinh, với N1 – Tiếng Anh; N2 – Tiếng Nga; N3 – Tiếng Pháp; N4 – Tiếng Trung Quốc; N5 – Tiếng Đức; N6 – Tiếng Nhật; N7 - Tiếng Hàn.                                                                                                                              |
+| TongDiem | Tổng điểm 4 môn thi bao gồm 2 môn Toán, Ngữ văn và 2 môn tự chọn của thí sinh với thang điểm 40. Công thức tính: Toán + Ngữ văn + 2 môn tự chọn (trong số Vật lí, Hóa học, Sinh học, Lịch sử, Địa lí, Giáo dục Kinh tế - Pháp luật, Ngữ văn, Tin học, Công nghệ - Công nghiệp, Công nghệ - Nông nghiệp).  |
+| KhoiA | Tổng điểm Tổ hợp A00 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lí + Hóa học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| KhoiA1 | Tổng điểm Tổ hợp A01 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lí + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| KhoiB | Tổng điểm Tổ hợp B00 của thí sinh với thang điểm 30. Công thức tính: Toán + Hóa học + Sinh học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| KhoiC | Tổng điểm Tổ hợp C00 của thí sinh với thang điểm 30. Công thức tính: Ngữ văn + Lịch sử + Địa lí. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| KhoiD | Tổng điểm Tổ hợp D00 của thí sinh với thang điểm 30. Công thức tính: Toán + Ngữ văn + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| KhoiA02 | Tổng điểm Tổ hợp A02 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lí + Sinh học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| KhoiC01 | Tổng điểm Tổ hợp C01 của thí sinh với thang điểm 30. Công thức tính: Toán + Ngữ văn + Vật lí. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+| KhoiD07 | Tổng điểm Tổ hợp D07 của thí sinh với thang điểm 30. Công thức tính: Toán + Hóa học + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+
+### 2026
+
+| Trường        | Mô tả                                                                                                                                                                                                                                                                    |
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SBD          | Số báo danh gốc của thí sinh.                                                                                                                                                                           |
+| Nam          | Năm thí sinh dự thi (dãy 2 số).                                                                                                                                                                           |
+| Tinh          | Mã tỉnh hoặc thành phố dự thi của thí sinh (2 số, từ 1 đến 96). [Xem tại đây](#mã-tỉnhthành-phố)                                                                                                                                                                           |
 | SBD_New           | Số báo danh của thí sinh (6 số, từ 1 đến 139678).                       |
 | Toan          | Điểm môn Toán của thí sinh với thang điểm 10. Đề thi bao gồm 12 câu trắc nghiệm (0.25 điểm), 4 câu đúng sai (0.1/0.25/0.5/1 điểm với 1/2/3/4 ý đúng mỗi câu) và 6 câu trả lời ngắn (0.5 điểm).                                                                                                                                                                           |
 | NguVan        | Điểm môn Ngữ văn (tự luận) của thí sinh với thang điểm 10 và làm tròn tới 0.25 điểm.                                                                                                                                                                                           |
@@ -317,6 +357,7 @@ Mega.nz (dạng .rar):
 | KhoiA02 | Tổng điểm Tổ hợp A02 của thí sinh với thang điểm 30. Công thức tính: Toán + Vật lí + Sinh học. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiC01 | Tổng điểm Tổ hợp C01 của thí sinh với thang điểm 30. Công thức tính: Toán + Ngữ văn + Vật lí. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiD07 | Tổng điểm Tổ hợp D07 của thí sinh với thang điểm 30. Công thức tính: Toán + Hóa học + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
+
 
 #### Mã Tỉnh/Thành phố
 
