@@ -36,7 +36,7 @@
     <td>&emsp;&emsp;<a href="#2002-2025">2002-2025</a></td>
   </tr>
     <tr>
-    <td>&emsp;&emsp;<a href="#2026">2026</a></td>
+    <td>&emsp;&emsp;<a href="#2026-1">2026</a></td>
   </tr>
 </table>
 
@@ -333,7 +333,7 @@ Mega.nz (dạng .rar):
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SBD          | Số báo danh gốc của thí sinh.                                                                                                                                                                           |
 | Nam          | Năm thí sinh dự thi (dãy 2 số).                                                                                                                                                                           |
-| Tinh          | Mã tỉnh hoặc thành phố dự thi của thí sinh (2 số, từ 1 đến 96). [Xem tại đây](#2026)                                                                                                                                                                           |
+| Tinh          | Mã tỉnh hoặc thành phố dự thi của thí sinh (2 số, từ 1 đến 96). [Xem tại đây](#2026-1)                                                                                                                                                                           |
 | SBD_New           | Số báo danh của thí sinh (6 số, từ 1 đến 139678).                       |
 | Toan          | Điểm môn Toán của thí sinh với thang điểm 10. Đề thi bao gồm 12 câu trắc nghiệm (0.25 điểm), 4 câu đúng sai (0.1/0.25/0.5/1 điểm với 1/2/3/4 ý đúng mỗi câu) và 6 câu trả lời ngắn (0.5 điểm).                                                                                                                                                                           |
 | NguVan        | Điểm môn Ngữ văn (tự luận) của thí sinh với thang điểm 10 và làm tròn tới 0.25 điểm.                                                                                                                                                                                           |
