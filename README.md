@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><a href="#dữ-liệu-điểm-thi-tuyển-sinh-đại-học---cao-đẳng-2013-2014-thpt-quốc-gia-2016-2019-và-tốt-nghiệp-thpt-2020-2025">Dữ liệu điểm thi (2013-2025)</a></td>
+    <td><a href="#dữ-liệu-điểm-thi-tuyển-sinh-đại-học---cao-đẳng-2013-2014-thpt-quốc-gia-2016-2019-và-tốt-nghiệp-thpt-2020-2025">Dữ liệu điểm thi (2013-2026)</a></td>
   </tr>
   <tr>
     <td>&emsp;<a href="#trường-dữ-liệu">Trường dữ liệu</a></td>
@@ -322,6 +322,8 @@ Mega.nz (dạng .rar):
 
 *Lưu ý: Mã Tỉnh/Thành phố dưới đây chỉ áp dụng cho các kỳ thi từ năm 2002 (kỳ thi tuyển sinh đại học chung, thống nhất toàn quốc đầu tiên) đến hết năm 2025 (khi việc sắp xếp đơn vị hành chính Việt Nam năm 2025 có hiệu lực). Dự kiến mã Tỉnh/Thành phố sẽ thay đổi từ năm 2026 trở đi.*
 
+### 2013-2025
+
 | Mã | Tỉnh/Thành phố |
 |---|---|
 | 01 | Thành phố Hà Nội |
@@ -387,3 +389,42 @@ Mega.nz (dạng .rar):
 | 62 | Tỉnh Điện Biên |
 | 63 | Tỉnh Đắk Nông |
 | 64 | Tỉnh Hậu Giang |
+
+### 2026-
+
+| Mã số | Tên tỉnh, thành phố   |
+|-------|-----------------------|
+| 1     | Thành phố Hà Nội      |
+| 4     | Tỉnh Cao Bằng         |
+| 8     | Tỉnh Tuyên Quang      |
+| 11    | Tỉnh Điện Biên        |
+| 12    | Tỉnh Lai Châu         |
+| 14    | Tỉnh Sơn La           |
+| 15    | Tỉnh Lào Cai          |
+| 19    | Tỉnh Thái Nguyên      |
+| 20    | Tỉnh Lạng Sơn         |
+| 22    | Tỉnh Quảng Ninh       |
+| 24    | Tỉnh Bắc Ninh         |
+| 25    | Tỉnh Phú Thọ          |
+| 31    | Thành phố Hải Phòng   |
+| 33    | Tỉnh Hưng Yên         |
+| 37    | Tỉnh Ninh Bình        |
+| 38    | Tỉnh Thanh Hóa        |
+| 40    | Tỉnh Nghệ An          |
+| 42    | Tỉnh Hà Tĩnh          |
+| 44    | Tỉnh Quảng Trị        |
+| 46    | Thành phố Huế         |
+| 48    | Thành phố Đà Nẵng     |
+| 51    | Tỉnh Quảng Ngãi       |
+| 52    | Tỉnh Gia Lai          |
+| 56    | Tỉnh Khánh Hòa        |
+| 66    | Tỉnh Đắk Lắk          |
+| 68    | Tỉnh Lâm Đồng         |
+| 75    | Tỉnh Đồng Nai         |
+| 79    | Thành phố Hồ Chí Minh |
+| 80    | Tỉnh Tây Ninh         |
+| 82    | Tỉnh Đồng Tháp        |
+| 86    | Tỉnh Vĩnh Long        |
+| 91    | Tỉnh An Giang         |
+| 92    | Thành phố Cần Thơ     |
+| 96    | Tỉnh Cà Mau           |
