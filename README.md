@@ -394,9 +394,9 @@ Mega.nz (dạng .rar):
 
 | Mã số | Tên tỉnh, thành phố   |
 |-------|-----------------------|
-| 1     | Thành phố Hà Nội      |
-| 4     | Tỉnh Cao Bằng         |
-| 8     | Tỉnh Tuyên Quang      |
+| 01    | Thành phố Hà Nội      |
+| 04    | Tỉnh Cao Bằng         |
+| 08    | Tỉnh Tuyên Quang      |
 | 11    | Tỉnh Điện Biên        |
 | 12    | Tỉnh Lai Châu         |
 | 14    | Tỉnh Sơn La           |
