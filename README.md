@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><a href="#dữ-liệu-điểm-thi-tuyển-sinh-đại-học---cao-đẳng-2013-2014-thpt-quốc-gia-2016-2019-và-tốt-nghiệp-thpt-2020-2025">Dữ liệu điểm thi (2013-2026)</a></td>
+    <td><a href="#dữ-liệu-điểm-thi-tuyển-sinh-đại-học---cao-đẳng-2013-2014-thpt-quốc-gia-2016-2019-và-tốt-nghiệp-thpt-2020-2026">Dữ liệu điểm thi (2013-2026)</a></td>
   </tr>
   <tr>
     <td>&emsp;<a href="#trường-dữ-liệu">Trường dữ liệu</a></td>
@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-# Dữ liệu điểm thi Tuyển sinh Đại học - Cao đẳng 2013-2014, THPT Quốc gia 2016-2019 và Tốt nghiệp THPT 2020-2025
+# Dữ liệu điểm thi Tuyển sinh Đại học - Cao đẳng 2013-2014, THPT Quốc gia 2016-2019 và Tốt nghiệp THPT 2020-2026
 
 *Nếu bạn có dữ liệu của các năm 2020 - đợt 2, 2015, 2012 trở về trước v.v.... liên hệ với mình [tại đây](https://github.com/sdgedfegw/du-lieu-diem-thi/issues)*
 
@@ -43,7 +43,7 @@ Mega.nz (dạng .rar):
 
 | [2013-2014](https://mega.nz/file/48JkxQhb#H5yL8QeD-6lgSPl-sC7nfTLHADCrHHvyFcNpmVODXWE) | [2014](https://mega.nz/file/t1YAATbb#zzkXMVwz6IfM4HnBmp3SB0aSYYzrByowZ1n0swMUl6I) | [2016 - Đại học](https://mega.nz/file/dpwTESrT#Tx7du9Wq1QapqHTvQyxlR2ECcBNEaan39hspb8vshZc) | [2016 - Địa phương](https://mega.nz/file/ZgJ0RKDb#GbqDhh_NIbwz2n5AjIKGW-X8s8Dssk6Ffxi05pLNlDI) | [2017](https://mega.nz/file/QxxQ2YhK#TWMG92bKSo5PK4bOV3gqhbJUmVooI-NC4tfGHcihLDM) | [2018](https://mega.nz/file/QxxQ2YhK#TWMG92bKSo5PK4bOV3gqhbJUmVooI-NC4tfGHcihLDM) | [2019](https://mega.nz/file/Nw5kyTBR#vc3HlmaicF9fsIMdbio16qSPqDsrb7JZq2C5wAoTB8U) | [2020](https://mega.nz/file/ckRRDDIb#wFTUiBhU3L0txvO3PxeLJfO3XoSQpEpX7ciTLsxlevs) | [2020 đợt 2 - Đà Nẵng](https://mega.nz/file/E15jxJ5Y#c_5NpBcT2Anxrx9n7ex3B6376l23X1pipQuhR1J9Gv0) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [2021](https://mega.nz/file/sppRmSqI#v4NmJib00dJMaizfDCDIKftalUGLeVUXbD__XNAER34) | [2021 đợt 2](https://mega.nz/file/E15jxJ5Y#c_5NpBcT2Anxrx9n7ex3B6376l23X1pipQuhR1J9Gv0) | [2022](https://mega.nz/file/Yxh20Z4C#8WrvjP12_3nn81GKhMCH2PlkAGlAPaccE2QvTYjh2WA) | [2023](https://mega.nz/file/0oIjULQA#De-9cMr3GdxODY4UoC7noRa1AfHeK1grukY27Of9fxM) | [2024](https://mega.nz/file/ktpiBD7b#aUOk-uhFKKpZXCU24SAIN4grjzxgwtWIWfBNuEHlpD4) | [2025 - Chương trình 2006](https://mega.nz/file/wsozUJ6J#0q3RjJRM3pgA8HDPjw7CcoFsJ4kPUZJ_Z0dN8q8AGbg) | [2025 - Chương trình 2018](https://mega.nz/file/t0AH3IzQ#WKnoe1GycLKNlW0SeiYsnF1Vvk_DXKJUNNOrQWRcZWE) | [2016-2025](https://mega.nz/file/s1xDDTJR#rMRfKIQ6adtJnrq2KErWmz0NHEaHv2wH6TnvgNsovRw) |
+| [2021](https://mega.nz/file/sppRmSqI#v4NmJib00dJMaizfDCDIKftalUGLeVUXbD__XNAER34) | [2021 đợt 2](https://mega.nz/file/E15jxJ5Y#c_5NpBcT2Anxrx9n7ex3B6376l23X1pipQuhR1J9Gv0) | [2022](https://mega.nz/file/Yxh20Z4C#8WrvjP12_3nn81GKhMCH2PlkAGlAPaccE2QvTYjh2WA) | [2023](https://mega.nz/file/0oIjULQA#De-9cMr3GdxODY4UoC7noRa1AfHeK1grukY27Of9fxM) | [2024](https://mega.nz/file/ktpiBD7b#aUOk-uhFKKpZXCU24SAIN4grjzxgwtWIWfBNuEHlpD4) | [2025 - Chương trình 2006](https://mega.nz/file/wsozUJ6J#0q3RjJRM3pgA8HDPjw7CcoFsJ4kPUZJ_Z0dN8q8AGbg) | [2025 - Chương trình 2018](https://mega.nz/file/t0AH3IzQ#WKnoe1GycLKNlW0SeiYsnF1Vvk_DXKJUNNOrQWRcZWE) | [2016-2025](https://mega.nz/file/s1xDDTJR#rMRfKIQ6adtJnrq2KErWmz0NHEaHv2wH6TnvgNsovRw) | [2026](https://mega.nz/file/EtYW3Ira#bS7NOu9RA_-2stq7zHpjef9dAM452idKFn14bA9IOVY) 
 
 **Số liệu thống kê**
 
@@ -287,14 +287,14 @@ Mega.nz (dạng .rar):
 | TongDiemKHTN | Tổng điểm 6 môn thi của thí sinh với thang điểm 60. Công thức tính: Toán + Ngữ văn + Ngoại ngữ + Khoa học tự nhiên (Vật lí, Hóa học, Sinh học). (Loại trừ những thí sinh không thi bất kỳ 1 trong 6 môn hoặc điểm của 1 trong 6 môn = 0) |
 | TongDiemKHXH | Tổng điểm 6 môn thi của thí sinh với thang điểm 60. Công thức tính: Toán + Ngữ văn + Ngoại ngữ + Khoa học xã hội (Lịch sử, Địa lí và Giáo dục công dân).  (Loại trừ những thí sinh không thi bất kỳ 1 trong 6 môn hoặc điểm của 1 trong 6 môn = 0) |
 
-### 2025
+### 2025-2026
 
 | Trường        | Mô tả                                                                                                                                                                                                                                                                    |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SBD          | Số báo danh gốc của thí sinh.                                                                                                                                                                           |
-| Nam          | Năm thí sinh dự thi (dãy 2 số, hiện tại chỉ có 25, tương ứng với năm 2025).                                                                                                                                                                           |
+| Nam          | Năm thí sinh dự thi (dãy 2 số).                                                                                                                                                                           |
 | Tinh          | Mã tỉnh hoặc thành phố dự thi của thí sinh (2 số, từ 1 đến 64). [Xem tại đây](#mã-tỉnhthành-phố)                                                                                                                                                                           |
-| SBD_New           | Số báo danh của thí sinh (6 số, từ 1 đến 124072).                       |
+| SBD_New           | Số báo danh của thí sinh (6 số, từ 1 đến 139678).                       |
 | Toan          | Điểm môn Toán của thí sinh với thang điểm 10. Đề thi bao gồm 12 câu trắc nghiệm (0.25 điểm), 4 câu đúng sai (0.1/0.25/0.5/1 điểm với 1/2/3/4 ý đúng mỗi câu) và 6 câu trả lời ngắn (0.5 điểm).                                                                                                                                                                           |
 | NguVan        | Điểm môn Ngữ văn (tự luận) của thí sinh với thang điểm 10 và làm tròn tới 0.25 điểm.                                                                                                                                                                                           |
 | VatLy         | Điểm môn Vật lí của thí sinh với thang điểm 10. Đề thi bao gồm 18 câu trắc nghiệm (0.25 điểm), 4 câu đúng sai (0.1/0.25/0.5/1 điểm với 1/2/3/4 ý đúng mỗi câu) và 6 câu trả lời ngắn (0.25 điểm).                                                                                                                                                                        |
@@ -320,9 +320,7 @@ Mega.nz (dạng .rar):
 
 #### Mã Tỉnh/Thành phố
 
-*Lưu ý: Mã Tỉnh/Thành phố dưới đây chỉ áp dụng cho các kỳ thi từ năm 2002 (kỳ thi tuyển sinh đại học chung, thống nhất toàn quốc đầu tiên) đến hết năm 2025 (khi việc sắp xếp đơn vị hành chính Việt Nam năm 2025 có hiệu lực). Dự kiến mã Tỉnh/Thành phố sẽ thay đổi từ năm 2026 trở đi.*
-
-### 2013-2025
+### 2002-2025
 
 | Mã | Tỉnh/Thành phố |
 |---|---|
