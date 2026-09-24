@@ -71,10 +71,10 @@ Mega.nz (dạng .rar):
 | **SBD** | Số báo danh của thí sinh (dãy 6 số dạng str). |
 | **HovaTen**| Họ và tên của thí sinh (Lưu ý: Năm 2014 bị lỗi font) |
 | **NgaySinh**| Ngày tháng năm sinh của thí sinh (dãy 6 số; 2 số đầu là ngày, 2 số giữa là tháng và 2 số sau cùng là năm; "000000" tương ứng với để trống). |
-| **Mon1** | Điểm số của môn đầu tiên mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi (mỗi năm 1 khác, môn 1 thường là môn chính như Toán hoặc Ngữ văn; xem ở bên dưới) ; 4 số, ví dụ 1000 tương ứng với 10.00 điểm, 425 tương ứng với 4.25 điểm). |
-| **Mon2** | Điểm số của môn thứ 2 mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi; 4 số. |
-| **Mon3** | Điểm số của môn thứ 3 mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi; 4 số. |
-| **TongDiem**| Tổng điểm số 3 môn thi của khối thi mà thí sinh dự thi (điểm trần, chưa cộng điểm vùng, điểm ưu tiên); 4 số. |
+| **Mon1** | Điểm số của môn đầu tiên mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi (mỗi năm 1 khác, môn 1 thường là môn chính như Toán hoặc Ngữ văn; xem ở bên dưới); dãy 4 số (không có số 0 dẫn đầu), ví dụ 1000 tương ứng với 10.00 điểm, 425 tương ứng với 4.25 điểm). |
+| **Mon2** | Điểm số của môn thứ 2 mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi; dãy 4 số. |
+| **Mon3** | Điểm số của môn thứ 3 mà thí sinh dự thi trong kỳ thi tương ứng với mã khối thi; dãy 4 số. |
+| **TongDiem**| Tổng điểm số 3 môn thi của khối thi mà thí sinh dự thi (điểm trần, chưa cộng điểm vùng, điểm ưu tiên); dãy 4 số. |
 
 #### Mã Môn 1, 2, 3 của các khối thi
 
@@ -94,14 +94,14 @@ Mega.nz (dạng .rar):
 | Nam          | Năm thí sinh dự thi (dãy 2 số, 16 = 2016).                                                                                                                                                                           |
 | Tinh          | 2 loại dữ liệu: Mã cụm thi đại học của thí sinh (của những thí sinh xét tuyển đại học) gồm dãy 3 chữ chứa mã cụm thi đại học thí sinh dự thi (Ví dụ: BKA) và Mã cụm thi địa phương của thí sinh (của những thí sinh không xét tuyển đại học) (2 số, từ 1 đến 64). Xem [danh sách cụm thi đại học](#mã-cụm-thi-thpt-quốc-gia-2016-do-đại-học-chủ-trì) và [danh sách cụm thi địa phương](#mã-cụm-thi-địa-phương-cụm-thi-tốt-nghiệp-năm-2016) tại đây                                                                                                                                                                           |
 | SBD_New           | Số báo danh của thí sinh (đã chuyển thành int).                       |
-| Toan          | Điểm môn Toán (tự luận)của thí sinh với thang điểm 10 và 0.25 điểm/1 câu đúng (tổng 50 câu).                                                                                                                                                                           |
+| Toan          | Điểm môn Toán (tự luận) của thí sinh với thang điểm 10 và 0.25 điểm/1 câu đúng (tổng 50 câu).                                                                                                                                                                           |
 | NguVan        | Điểm môn Ngữ văn (tự luận) của thí sinh với thang điểm 10 và làm tròn tới 0.25 điểm.                                                                                                                                                                                           |
 | VatLy         | Điểm môn Vật lí (trắc nghiệm) của thí sinh với thang điểm 10 và 0.2 điểm/1 câu đúng (tổng 50 câu).                                                                                                                                                                        |
 | HoaHoc        | Điểm môn Hóa học (trắc nghiệm) của thí sinh với thang điểm 10 và 0.2 điểm/1 câu đúng (tổng 50 câu).                                                                                                                                                                       |
 | SinhHoc       | Điểm môn Sinh học (trắc nghiệm) của thí sinh với thang điểm 10 và 0.2 điểm/1 câu đúng (tổng 50 câu).                                                                                                                                                                      |
 | LichSu        | Điểm môn Lịch sử (tự luận) của thí sinh với thang điểm 10 và làm tròn tới 0.25 điểm.                                                                                                                                                                       |
 | DiaLy         | Điểm môn Địa lí (tự luận) của thí sinh với thang điểm 10 và làm tròn tới 0.25 điểm.                                                                                                                                                                        |
-| GDCD          | Điểm môn Giáo dục công dân (trắc nghiệm) của thí sinh với thang điểm 10 và 0.25 điểm/1 câu đúng (tổng 40 câu).                                                                                                                                                             |
+| GDCD          | Điểm môn Giáo dục công dân (trắc nghiệm) của thí sinh; Được để trống do 2015 và 2016 không tổ chức thi môn Giáo dục công dân.                                                                                                                                                             |
 | NgoaiNgu      | Điểm của 1 trong 7 môn Ngoại ngữ của thí sinh với thang điểm 10. Đề thi bao gồm 64 câu trắc nghiệm (0.125 điểm), 5 câu trả lời ngắn (0.2 điểm) và 1 câu tự luận (1 điểm).                                                                                                                                                       |
 | MaMonNgoaiNgu | Mã môn Ngoại ngữ của thí sinh, với N1 – Tiếng Anh; N2 – Tiếng Nga; N3 – Tiếng Pháp; N4 – Tiếng Trung Quốc; N5 – Tiếng Đức; N6 – Tiếng Nhật; N7 - Tiếng Hàn.                                                                                                                              |
 | TongDiem | Tổng điểm 6 môn thi của thí sinh với thang điểm 60. Công thức tính: Toán + Ngữ văn + Ngoại ngữ + Khoa học tự nhiên (Vật lí, Hóa học, Sinh học).  |
@@ -114,9 +114,9 @@ Mega.nz (dạng .rar):
 | KhoiC01 | Tổng điểm Tổ hợp C01 của thí sinh với thang điểm 30. Công thức tính: Toán + Ngữ văn + Vật lí. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KhoiD07 | Tổng điểm Tổ hợp D07 của thí sinh với thang điểm 30. Công thức tính: Toán + Hóa học + Ngoại ngữ. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
 | KHTN | Điểm trung bình giữa 3 môn Khoa học tự nhiên (Vật lí - Hóa học - Sinh học) của thí sinh. (Loại trừ những thí sinh không thi bất kỳ 1 trong 3 môn hoặc điểm của 1 trong 3 môn = 0) |
-| KHXH |  |
+| KHXH | Điểm trung bình giữa 3 môn Khoa học xã hội (Lịch sử - Địa lí - Giáo dục công dân) của thí sinh; Được để trống do 2015 và 2016 không tổ chức thi môn Giáo dục công dân.  |
 | TongDiemKHTN | Tổng điểm 6 môn thi của thí sinh với thang điểm 60. Công thức tính: Toán + Ngữ văn + Ngoại ngữ + Khoa học tự nhiên (Vật lí, Hóa học, Sinh học). (Loại trừ những thí sinh không thi bất kỳ 1 trong 6 môn hoặc điểm của 1 trong 6 môn = 0) |
-| TongDiemKHXH |  |
+| TongDiemKHXH | Tổng điểm 6 môn thi của thí sinh với thang điểm 60. Công thức tính: Toán + Ngữ văn + Ngoại ngữ + Khoa học xã hội (Lịch sử, Địa lí và Giáo dục công dân); Được để trống do 2015 và 2016 không tổ chức thi môn Giáo dục công dân. |
 
 #### Mã cụm thi THPT Quốc gia 2016 do Đại học chủ trì
 
