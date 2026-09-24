@@ -384,6 +384,7 @@ Mega.nz (dạng .rar):
 | 17 | Tỉnh Quảng Ninh |
 | 18 | Tỉnh Bắc Giang |
 | 19 | Tỉnh Bắc Ninh |
+| 20 | Tỉnh Hà Tây |
 | 21 | Tỉnh Hải Dương |
 | 22 | Tỉnh Hưng Yên |
 | 23 | Tỉnh Hòa Bình |
